@@ -1,0 +1,11 @@
+Model Information:
+* title:	Green Arrow
+* source:	https://sketchfab.com/3d-models/green-arrow-d366ac473aa54c0a82fc8e3f3c3e9dee
+* author:	hwk10037 (https://sketchfab.com/hwk10037)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Green Arrow" (https://sketchfab.com/3d-models/green-arrow-d366ac473aa54c0a82fc8e3f3c3e9dee) by hwk10037 (https://sketchfab.com/hwk10037) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
